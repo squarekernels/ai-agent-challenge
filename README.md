@@ -183,6 +183,18 @@ If time permits, consider one or both of the following:
 
 Optional improvements should not come at the expense of a working core implementation.
 
+## Submission Instructions
+
+1. Fork this repository to your GitHub account.
+2. Implement the challenge in your fork. You're welcome to make incremental commits as you develop and improve the agent; you don't need to submit a PR for every change.
+3. Update the README with setup instructions, design decisions, and test results.
+4. Once you're finished, submit a Pull Request (PR) from your fork to the original repository.
+5. Include a brief summary of your implementation, key trade-offs, known limitations, and what you would improve with more time.
+
+Please do not deploy the application or integrate real customer systems. Mock data is sufficient.
+
+Focus on correctness, maintainability, tool-calling behavior, and how you test and evaluate the agent—not on building unnecessary infrastructure.
+
 ## What We Value
 
 We value a solution that demonstrates sound engineering judgment and a practical understanding of AI agents.
